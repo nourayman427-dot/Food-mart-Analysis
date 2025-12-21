@@ -36,7 +36,7 @@ in order to support data-driven business decisions.
 - checked for null and duplicate records
 -create view for analysis 
 
-
+---
 **  📌 loading in power Bi 
 
 -imported cleaned and transformed data into power BI
@@ -51,7 +51,7 @@ in order to support data-driven business decisions.
 - Product & Market Basket Analysis
 - return pattern analysis
 
-Screenshots are available in the screenshots/ folder.
+Screenshots are available in the screenshots.
 
 ---
 
