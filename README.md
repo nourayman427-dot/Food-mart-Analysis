@@ -71,12 +71,7 @@ See folders:
 
 ---
 
-## 🚀 Next Improvements
-- Add time-series forecasting
-- Automate ETL process
-- Enhance Market Basket Analysis with lift & confidence
 
----
 
 👩‍💻 Author
 
