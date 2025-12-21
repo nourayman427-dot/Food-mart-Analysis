@@ -37,7 +37,8 @@ in order to support data-driven business decisions.
 -create view for analysis 
 
 
-** loading in power Bi 
+**  📌 loading in power Bi 
+
 -imported cleaned and transformed data into power BI
 -build relationship, measures, kpis and mdel table for dashbords
 -use dashbord to extract helpful insights
