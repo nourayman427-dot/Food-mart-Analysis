@@ -36,12 +36,7 @@ in order to support data-driven business decisions.
 - checked for null and duplicate records
 -create view for analysis 
 
----
-**  📌 loading in power Bi 
 
--imported cleaned and transformed data into power BI
--build relationship, measures, kpis and mdel table for dashbords
--use dashbord to extract helpful insights
 ---
 
 ## 📊 Dashboards
