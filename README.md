@@ -16,6 +16,7 @@ in order to support data-driven business decisions.
 - Analyze customer segments by income and membership type
 - Compare transaction value across regions 
 - Evaluate profitability vs store count
+- understanding frequently purchased product combinations to understand customer buying behavior and improve cross-selling strategies.
 
 ---
 
@@ -45,6 +46,7 @@ in order to support data-driven business decisions.
 - Customer Analysis
 - Product & Market Basket Analysis
 - return pattern analysis
+- -market basket analysis
 
 Screenshots are available in the screenshots.
 
@@ -59,6 +61,9 @@ Screenshots are available in the screenshots.
 - Some products  have high return rates and low sales and needed actions must be taken
 -sustainabilty products are more attractive to customers
 -customers with no children or large families ( +5 children ) show significcantly lower purchases rates.
+-Analyze bundle frequency and sales performance
+- Compare bundle behavior across store types
+
 
 
 ---
